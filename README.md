@@ -1,4 +1,4 @@
-# vlc-3-appimage
+# VLC-3-AppImage
 A repository for building a VLC 3.0.x AppImage on [Travis CI](https://travis-ci.org/).
 
 ## Why?
