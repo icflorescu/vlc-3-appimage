@@ -14,3 +14,8 @@ Download the AppImage from [here](https://github.com/icflorescu/vlc-3-appimage/r
 
 ## How do I know it's safe?
 As with most things you download from the Internet nowadays, you can't. But you can inspect the source code, improve it, decide for yourself whether to download the AppImage from the link above or create your own fork.
+
+## License
+
+This repo is [ISC-Licensed](https://github.com/icflorescu/vlc-3-appimage/blob/master/LICENSE).
+Please refer to [this page](https://www.videolan.org/legal.html) for VLC-related licensing stuff.
