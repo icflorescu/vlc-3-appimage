@@ -1,7 +1,7 @@
 # VLC-3-AppImage
 ![VLC](https://user-images.githubusercontent.com/581999/41001881-e33ecc94-691a-11e8-8974-5fcdfcb42f89.jpg)
 
-A repository for building a VLC 3.0.x AppImage on [Travis CI](https://travis-ci.org/).
+A repository for building a VLC 3.0.3 AppImage on [Travis CI](https://travis-ci.org/).
 
 ## Why?
 Because most distros are yet to upgrade their repositories to the latest VLC version.
