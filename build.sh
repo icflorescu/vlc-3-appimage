@@ -1,6 +1,6 @@
 #/bin/bash
 
-VERSION="3.0.3"
+VERSION="3.0.5"
 
 echo "deb http://in.archive.ubuntu.com/ubuntu/ trusty main" | tee /etc/apt/sources.list.d/trusty.list
 apt-get update
